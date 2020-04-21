@@ -1,0 +1,10 @@
+template_type: TF
+terraform_version: 0.11
+
+terraform_011_parameters:
+  variable_files: 
+  - variable.tf.json
+  
+tags:
+  - Org:Engineering
+  - Team:Shift_Left
